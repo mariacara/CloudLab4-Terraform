@@ -1,5 +1,5 @@
 # CloudLab4-Terraform
-SYST35144 Cloud Systems Lab 4 - Terraform to create three modules to deploy infrastructure to AWS
+Cloud Systems Lab 4 - Terraform to create three modules to deploy infrastructure to AWS
 
 The first module - VPCModule, creates the new VPC with a private and public subnet. It outputs the vpc id, and private and public subnet ids to be referenced in the webserver module.
 
